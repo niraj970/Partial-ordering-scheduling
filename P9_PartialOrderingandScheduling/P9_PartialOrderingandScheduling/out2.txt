@@ -1,0 +1,3 @@
+OPEN ->(1,4,1)->(7,2,1)->(NULL,0,0)->NULL
+OPEN ->(2,2,1)->(NULL,0,0)->NULL
+OPEN ->(NULL,0,0)->NULL
